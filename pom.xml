@@ -7,7 +7,7 @@
     <groupId>cc.before30</groupId>
     <artifactId>brown-boot-build</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>brown-boot-samples</module>
         <module>brown-boot-starters</module>

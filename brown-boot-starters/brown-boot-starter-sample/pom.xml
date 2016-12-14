@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cc.before30</groupId>
-	<artifactId>brown-boot-starter-sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>brown-boot-starter-sample</artifactId>
 	<packaging>jar</packaging>
 
 	<name>brown-boot-starter-sample</name>
