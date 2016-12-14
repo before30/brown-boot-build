@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cc.before30</groupId>
-	<artifactId>brown-boot-hello-starter</artifactId>
+	<artifactId>brown-boot-starter-sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>brown-boot-hello-starter</name>
+	<name>brown-boot-starter-sample</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -35,7 +35,6 @@
 			<artifactId>lombok</artifactId>
 			<version>1.16.10</version>
 		</dependency>
-
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

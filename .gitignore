@@ -1,3 +1,6 @@
 brown-boot-build.iml
 brown-boot-samples/brown-boot-samples.iml
 brown-boot-starters/brown-boot-starters.iml
+brown-boot-sample-hello.iml
+brown-boot-starters/brown-boot-starter-handlebars/.mvn
+brown-boot-starters/brown-boot-starter-sample/.mvn

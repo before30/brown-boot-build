@@ -1,4 +1,4 @@
-package cc.before30;
+package cc.before30.sample;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

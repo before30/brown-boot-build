@@ -1,4 +1,4 @@
-package cc.before30;
+package cc.before30.sample;
 
 import lombok.extern.slf4j.Slf4j;
 
