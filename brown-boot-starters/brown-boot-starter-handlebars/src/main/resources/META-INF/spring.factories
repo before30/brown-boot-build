@@ -1,0 +1,8 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cc.before30.boot.starters.handlebars.autoconfigure.HandlebarsAutoConfiguration,\
+cc.before30.boot.starters.handlebars.autoconfigure.HandlebarsHelpersAutoConfiguration
+
+# Template availability providers
+org.springframework.boot.autoconfigure.template.TemplateAvailabilityProvider=\
+cc.before30.boot.starters.handlebars.autoconfigure.HandlebarsTemplateAvailabilityProvider
