@@ -20,7 +20,7 @@ import java.util.Optional;
 public class MemcachedAutoConfiguration {
     private static final String LOCALHOST = "localhost";
     private static final int DEFAULT_PORT = 11211;
-    private static final String MEMCACHED_SERVERS = "memcached.servers";
+    private static final String MEMCACHED_SERVERS = "brown.boot.memcached.servers";
 
     @Autowired private Environment env;
 

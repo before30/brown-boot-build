@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cc.before30</groupId>
-	<artifactId>brown-boot-sample-hello</artifactId>
+	<artifactId>brown-boot-sample-memcached</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>brown-boot-sample-hello</name>
+	<name>brown-boot-sample-memcached</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -32,7 +32,7 @@
 
 		<dependency>
 			<groupId>cc.before30</groupId>
-			<artifactId>brown-boot-sample-hello</artifactId>
+			<artifactId>brown-boot-starter-memcached</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
@@ -46,11 +46,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>cc.before30</groupId>
-			<artifactId>brown-boot-starter-sample</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
