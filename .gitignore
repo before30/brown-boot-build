@@ -7,3 +7,4 @@ brown-boot-starters/brown-boot-starter-sample/.mvn
 brown-boot-samples/brown-boot-sample-handlebars/.mvn
 brown-boot-samples/brown-boot-sample-hello/.mvn
 brown-boot-starters/brown-boot-hello-starter/.mvn
+brown-boot-starter-memcached.iml

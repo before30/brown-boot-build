@@ -10,6 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>brown-boot-starters</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>brown-boot-starter-memcached</module>
+    </modules>
 
 
 </project>
