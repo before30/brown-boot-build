@@ -1,6 +1,6 @@
-package cc.before30.replicationdatasource.config;
+package cc.before30.brown.boot.starter.jpa.datasource.config;
 
-import cc.before30.replicationdatasource.routingdatasource.ReplicationRoutingDataSource;
+import cc.before30.brown.boot.starter.jpa.datasource.routingdatasource.ReplicationRoutingDataSource;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -6,7 +6,7 @@
              version="2.1">
     <persistence-unit name="replicationTest" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-        <class>cc.before30.replicationdatasource.jpa.User</class>
+        <class>cc.before30.brown.boot.starter.jpa.datasource.jpa.User</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>

@@ -1,11 +1,12 @@
-package cc.before30.replicationdatasource.config;
+package cc.before30.brown.boot.starter.jpa.datasource.config;
 
-import cc.before30.replicationdatasource.jpa.User;
+import cc.before30.brown.boot.starter.jpa.datasource.jpa.User;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.dao.annotation.PersistenceExceptionTranslationPostProcessor;
+import org.springframework.jdbc.datasource.LazyConnectionDataSourceProxy;
 import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.orm.jpa.JpaVendorAdapter;
 import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;

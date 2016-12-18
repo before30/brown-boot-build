@@ -1,4 +1,4 @@
-package cc.before30.replicationdatasource.config;
+package cc.before30.brown.boot.starter.jpa.datasource.config;
 
 
 import cc.before30.brown.boot.starter.jpa.datasource.LazyReplicationConnectionDataSourceProxy;

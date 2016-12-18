@@ -1,4 +1,4 @@
-package cc.before30.replicationdatasource.jpa;
+package cc.before30.brown.boot.starter.jpa.datasource.jpa;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

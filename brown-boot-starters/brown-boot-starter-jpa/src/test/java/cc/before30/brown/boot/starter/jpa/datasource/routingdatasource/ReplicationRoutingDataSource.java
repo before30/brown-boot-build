@@ -1,4 +1,4 @@
-package cc.before30.replicationdatasource.routingdatasource;
+package cc.before30.brown.boot.starter.jpa.datasource.routingdatasource;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
