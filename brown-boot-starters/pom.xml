@@ -13,6 +13,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>brown-boot-starter-memcached</module>
+        <module>brown-boot-starter-jpa</module>
+        <module>brown-boot-starter-handlebars</module>
+        <module>brown-boot-starter-sample</module>
     </modules>
 
 
