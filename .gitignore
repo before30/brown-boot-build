@@ -10,3 +10,6 @@ brown-boot-starters/brown-boot-hello-starter/.mvn
 brown-boot-starter-memcached.iml
 brown-boot-samples/brown-boot-sample-memcached/.mvn
 brown-boot-starter-jpa.iml
+h2database.mv.db
+h2database.trace.db
+brown-boot-samples/brown-boot-sample-jpa/.mvn
